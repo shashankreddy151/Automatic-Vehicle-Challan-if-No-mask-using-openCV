@@ -1,0 +1,7 @@
+openCV
+pytesseract
+numpy
+os
+keras
+matplotlib
+tensorflow
